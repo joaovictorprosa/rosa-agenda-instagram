@@ -2,7 +2,7 @@ name: Publicar no Instagram
 
 on:
   schedule:
-    - cron: "1,16,31,46 * * * *"   # a cada 15 min (UTC); o GitHub pode atrasar alguns minutos
+    - cron: "2,17,32,47 * * * *"   # a cada 15 min (UTC); o GitHub pode atrasar. Reserva: relogio.yml
   workflow_dispatch:
     inputs:
       modo:

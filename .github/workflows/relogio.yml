@@ -1,0 +1,62 @@
+name: Relógio da agenda
+
+# Disparo reserva: espera até o horário do próximo post, aciona "Publicar no Instagram"
+# e se reagenda sozinho. Assim a agenda não depende só do agendamento (cron) do GitHub,
+# que pode atrasar ou falhar.
+on:
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: read
+
+concurrency:
+  group: relogio-agenda
+  cancel-in-progress: true   # só um relógio rodando por vez
+
+jobs:
+  esperar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: agenda.json
+          sparse-checkout-cone-mode: false
+          filter: blob:none
+
+      - name: Esperar o próximo post
+        id: espera
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json, time
+          from datetime import datetime, timezone
+          posts = json.load(open("agenda.json"))["posts"]
+          agora = time.time()
+          prox = sorted(datetime.fromisoformat(p["at"]).timestamp() for p in posts if p["status"] == "agendado")
+          if not prox:
+              print("acao=parar"); raise SystemExit
+          alvo = prox[0] + 20                       # 20 s depois do horário
+          limite = agora + 5 * 3600                 # no máximo 5 h por rodada
+          print(f"segundos={max(0, int(min(alvo, limite) - agora))}")
+          print("acao=" + ("publicar" if alvo <= limite else "renovar"))
+          PY
+          cat "$GITHUB_OUTPUT"
+
+      - name: Dormir
+        if: steps.espera.outputs.acao != 'parar'
+        run: sleep ${{ steps.espera.outputs.segundos }}
+
+      - name: Acionar publicação
+        if: steps.espera.outputs.acao == 'publicar'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run publicar.yml -R "$GITHUB_REPOSITORY" -f modo=publicar
+
+      - name: Reagendar o relógio
+        if: always() && steps.espera.outputs.acao != 'parar'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          sleep 90   # dá tempo da publicação gravar o status na agenda
+          gh workflow run relogio.yml -R "$GITHUB_REPOSITORY"

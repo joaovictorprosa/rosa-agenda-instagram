@@ -11,7 +11,7 @@ import json, os, sys, time, urllib.request, urllib.parse, urllib.error
 from datetime import datetime, timedelta, timezone
 
 API = "https://graph.instagram.com" + (("/" + os.environ["API_VERSION"]) if os.environ.get("API_VERSION") else "")
-TOKEN = os.environ.get("IG_TOKEN", "")
+TOKEN = os.environ.get("IG_TOKEN", "").strip().strip('"').strip("'").strip()
 IG = os.environ.get("IG_USER_ID", "")
 BASE = os.environ.get("BASE_URL", "").rstrip("/") + "/"
 AGENDA = os.path.join(os.path.dirname(__file__), "..", "agenda.json")
@@ -124,6 +124,8 @@ def head(u):
 
 def teste(agenda):
     ok = True
+    tipo = "Instagram (IGAA…)" if TOKEN.startswith("IG") else "Facebook (EAA…)" if TOKEN.startswith("EAA") else "desconhecido"
+    print(f"token: formato {tipo}, {len(TOKEN)} caracteres, {'tem espaço/quebra no meio' if any(c.isspace() for c in TOKEN) else 'sem espaços'}")
     me = call("GET", "me", fields="user_id,username,account_type")
     print(f"✓ token válido: @{me.get('username')} ({me.get('account_type')}), user_id {me.get('user_id')}")
     if str(me.get("user_id")) != IG:

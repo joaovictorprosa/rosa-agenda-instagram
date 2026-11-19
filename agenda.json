@@ -1,0 +1,361 @@
+{
+ "conta_instagram": "17841404321715727",
+ "fuso": "America/Sao_Paulo",
+ "posts": [
+  {
+   "id": "2026-11-12-site-0-05s",
+   "at": "2026-11-12T12:00:00-03:00",
+   "tipo": "REELS",
+   "titulo": "Reel V1 · Seu site tem 0,05s para convencer (PT + EN)",
+   "video": "m/2026-11-12-site-0-05s/reel.mp4",
+   "capa": "m/2026-11-12-site-0-05s/capa.jpg",
+   "legenda": "Uma pessoa leva cerca de 50 milissegundos para decidir se gostou do seu site. Antes de ler uma palavra.\n\nE não é só aparência. Quando o carregamento vai de 1 para 3 segundos, a chance de a pessoa ir embora sobe 32%, segundo o Google.\n\nO que decide esses primeiros instantes:\n1. Uma ideia por tela. O olho precisa saber onde pousar.\n2. Contraste e respiro. Espaço vazio passa confiança.\n3. Velocidade. O maior elemento da página visível em até 2,5 segundos.\n\nFoi com essa régua que desenhamos o site da Incanto Pasticceria.\n\nSalva para usar como checklist no seu próximo site.\n\n#webdesign #ux #primeiraimpressao #sitequevende #designdigital #rosabrandstudio",
+   "comentario": "Qual dos 3 o seu site mais precisa melhorar?",
+   "status": "aguardando_decisao"
+  },
+  {
+   "id": "2026-11-12-site-0-05s-en",
+   "at": "2026-11-12T19:30:00-03:00",
+   "tipo": "REELS",
+   "teste": true,
+   "plano_b": "2026-11-14T19:30:00-03:00",
+   "titulo": "Reel V1 · Seu site tem 0,05s para convencer (PT + EN) (EN, Reel de teste)",
+   "video": "m/2026-11-12-site-0-05s/reel-en.mp4",
+   "capa": "m/2026-11-12-site-0-05s/capa-en.jpg",
+   "legenda": "Your website has 0.05 seconds to win someone over. That's how long people take to judge a page, before reading a single word. Load time matters too: going from 1 to 3 seconds raises the chance of a bounce by 32% (Google). One idea per screen, contrast and white space, and the main content visible in under 2.5 seconds. That's the standard behind the Incanto website. Save this as a checklist.\n#webdesign #ux #firstimpression #websitedesign #rosabrandstudio",
+   "comentario": null,
+   "status": "aguardando_decisao"
+  },
+  {
+   "id": "2026-11-14-regra-60-30-10",
+   "at": "2026-11-14T10:00:00-03:00",
+   "tipo": "CAROUSEL",
+   "titulo": "Carrossel · A regra 60-30-10 das cores (PT)",
+   "imagens": [
+    "m/2026-11-14-regra-60-30-10/01.jpg",
+    "m/2026-11-14-regra-60-30-10/02.jpg",
+    "m/2026-11-14-regra-60-30-10/03.jpg",
+    "m/2026-11-14-regra-60-30-10/04.jpg",
+    "m/2026-11-14-regra-60-30-10/05.jpg",
+    "m/2026-11-14-regra-60-30-10/06.jpg",
+    "m/2026-11-14-regra-60-30-10/07.jpg"
+   ],
+   "legenda": "Sua marca tem cores bonitas e mesmo assim parece confusa? Provavelmente é proporção, não paleta.\n\n60% para a cor dominante, 30% para a secundária, 10% para o destaque. Esse 10% é o que leva ao clique, por isso precisa aparecer pouco.\n\nNo carrossel mostramos a regra aplicada em dois projetos nossos: o roxo e amarelo da Magic 3D e o escuro com dourado da Incanto.\n\nE um teste que vale ouro: coloque a tela em preto e branco. Se a hierarquia sumir, o problema era contraste.\n\nSalva para a próxima vez que for escolher uma paleta.\n\n#cores #paletadecores #branding #identidadevisual #designgrafico #rosabrandstudio",
+   "comentario": null,
+   "status": "aguardando_decisao"
+  },
+  {
+   "id": "2026-11-17-ecommerce-2027",
+   "at": "2026-11-17T12:00:00-03:00",
+   "tipo": "REELS",
+   "titulo": "Reel V2 · E-commerce 2027: a vitrine virou experiência (PT + EN)",
+   "video": "m/2026-11-17-ecommerce-2027/reel.mp4",
+   "capa": "m/2026-11-17-ecommerce-2027/capa.jpg",
+   "legenda": "🇧🇷 Foto parada e grade de produtos já não bastam. Segundo a BigEye, 54% dos consumidores querem sentir alegria ao comprar online.\n\n4 tendências para lojas em 2027:\n01. Produto em movimento: 360°, zoom, o objeto como ele é\n02. Personalização com prévia ao vivo\n03. Vitrine que conta história, não só preço\n04. Checkout sem atrito, em poucos toques\n\nAs telas de loja no vídeo são um conceito nosso usando produtos reais da Magic 3D. O site no final é o que desenhamos para eles.\n\n🇺🇸 The storefront became an experience. Motion, live personalization, storytelling and frictionless checkout: the e-commerce shifts for 2027, shown with real Magic 3D products.\n\n#ecommerce #tendencias2027 #lojavirtual #webdesign #ecommercedesign #rosabrandstudio",
+   "comentario": "Qual dessas sua loja já tem? / Which one does your store have?",
+   "status": "aguardando_decisao"
+  },
+  {
+   "id": "2026-11-17-ecommerce-2027-en",
+   "at": "2026-11-17T19:30:00-03:00",
+   "tipo": "REELS",
+   "teste": true,
+   "plano_b": "2026-11-19T19:30:00-03:00",
+   "titulo": "Reel V2 · E-commerce 2027: a vitrine virou experiência (PT + EN) (EN, Reel de teste)",
+   "video": "m/2026-11-17-ecommerce-2027/reel-en.mp4",
+   "capa": "m/2026-11-17-ecommerce-2027/capa-en.jpg",
+   "legenda": "The storefront became an experience. 54% of consumers want to feel joy when shopping online (BigEye). Four shifts for 2027: products in motion, live personalization, storefronts that tell a story and frictionless checkout. The store screens in this video are a Rosa concept using real Magic 3D products; the website at the end is the one we designed for them.\n#ecommerce #designtrends2027 #webdesign #ecommercedesign #rosabrandstudio",
+   "comentario": null,
+   "status": "aguardando_decisao"
+  },
+  {
+   "id": "2026-11-19-core-web-vitals",
+   "at": "2026-11-19T19:30:00-03:00",
+   "tipo": "CAROUSEL",
+   "titulo": "Carrossel · Core Web Vitals in 3 numbers (EN)",
+   "imagens": [
+    "m/2026-11-19-core-web-vitals/01.jpg",
+    "m/2026-11-19-core-web-vitals/02.jpg",
+    "m/2026-11-19-core-web-vitals/03.jpg",
+    "m/2026-11-19-core-web-vitals/04.jpg",
+    "m/2026-11-19-core-web-vitals/05.jpg",
+    "m/2026-11-19-core-web-vitals/06.jpg",
+    "m/2026-11-19-core-web-vitals/07.jpg"
+   ],
+   "legenda": "Is your site fast? Google doesn't guess. It looks at three numbers.\n\nLCP: how long until the main content shows up. Aim for 2.5 seconds or less.\nINP: how fast the page reacts when you tap. Aim for 200 milliseconds or less.\nCLS: how much the layout jumps while loading. Aim for 0.1 or less.\n\nWhy it matters: going from 1 to 3 seconds of load time raises the chance of a bounce by 32% (Google), and a mobile site just 0.1s faster lifted retail conversions by about 8% (Deloitte).\n\nCheck yours for free at PageSpeed Insights. Then save this and send it to whoever built your site.\n\n#webperformance #corewebvitals #webdesign #pagespeed #ux #rosabrandstudio",
+   "comentario": null,
+   "status": "agendado"
+  },
+  {
+   "id": "2026-11-21-tipografia",
+   "at": "2026-11-21T10:00:00-03:00",
+   "tipo": "CAROUSEL",
+   "titulo": "Carrossel ♻︎ · Tipografia é a voz da marca (PT)",
+   "imagens": [
+    "m/2026-11-21-tipografia/01.jpg",
+    "m/2026-11-21-tipografia/02.jpg",
+    "m/2026-11-21-tipografia/03.jpg",
+    "m/2026-11-21-tipografia/04.jpg",
+    "m/2026-11-21-tipografia/05.jpg"
+   ],
+   "legenda": "Antes de alguém ler o que você escreveu, já sentiu como você fala.\n\nO peso muda o tom: a mesma palavra em negrito grita, e em fonte fina sussurra. O espaçamento muda o ritmo: letras apertadas soam urgentes, letras espaçadas soam calmas. E a regra que mais protege uma marca é simples: duas fontes, no máximo. Uma para falar, outra para ler.\n\nTipografia é a voz da marca. Cada letra é uma escolha.\n\n#tipografia #branding #identidadevisual #design #designgrafico #rosabrandstudio",
+   "comentario": null,
+   "status": "agendado"
+  },
+  {
+   "id": "2026-11-24-black-friday",
+   "at": "2026-11-24T19:00:00-03:00",
+   "tipo": "CAROUSEL",
+   "titulo": "Carrossel ♻︎ · Black Friday: guerra de desconto (PT)",
+   "imagens": [
+    "m/2026-11-24-black-friday/01.jpg",
+    "m/2026-11-24-black-friday/02.jpg",
+    "m/2026-11-24-black-friday/03.jpg",
+    "m/2026-11-24-black-friday/04.jpg",
+    "m/2026-11-24-black-friday/05.jpg",
+    "m/2026-11-24-black-friday/06.jpg"
+   ],
+   "legenda": "Black Friday chegou. E nem toda marca deveria entrar na guerra de desconto.\n\nDesconto ensina o cliente a esperar: quem compra só na promoção aprende que o preço cheio é negociável e passa a aguardar a próxima. Com o tempo, o preço baixo vira a identidade da marca.\n\nMarcas premium oferecem valor em vez de abatimento: um bônus, uma edição limitada, um acesso antecipado ou uma experiência. O preço continua inteiro, e a percepção também.\n\nE se for para dar desconto, que seja com regra: prazo curto, escopo claro e um motivo real.\n\n#blackfriday #branding #posicionamento #precificacao #marcaspremium #rosabrandstudio",
+   "comentario": null,
+   "status": "agendado"
+  },
+  {
+   "id": "2026-11-26-ai-websites-same",
+   "at": "2026-11-26T19:30:00-03:00",
+   "tipo": "REELS",
+   "titulo": "Reel V3 · AI made every website look the same (EN + PT)",
+   "video": "m/2026-11-26-ai-websites-same/reel.mp4",
+   "capa": "m/2026-11-26-ai-websites-same/capa.jpg",
+   "legenda": "Same hero. Same three cards. Same purple gradient. AI made clean websites easy, so clean stopped being special.\n\nDesignRush put it simply: polished is the new generic.\n\nWhat stands out now:\n01. Typography with a point of view\n02. Real product, real photos\n03. Motion that explains something\n\nEvery site we build starts from the brand, not a template. Terrantai, Nodo Due and Incanto are proof.\n\nSave this before your next redesign.\n\n#webdesign #aidesign #designtrends #branding #websitedesign #rosabrandstudio",
+   "comentario": null,
+   "status": "agendado"
+  },
+  {
+   "id": "2026-11-26-ai-websites-same-pt",
+   "at": "2026-11-26T20:30:00-03:00",
+   "tipo": "REELS",
+   "teste": true,
+   "plano_b": "2026-11-28T19:30:00-03:00",
+   "titulo": "Reel V3 · AI made every website look the same (EN + PT) (PT, Reel de teste)",
+   "video": "m/2026-11-26-ai-websites-same/reel-pt.mp4",
+   "capa": "m/2026-11-26-ai-websites-same/capa-pt.jpg",
+   "legenda": "A IA deixou todo site igual. Mesmo topo, mesmos três cards, mesmo degradê roxo. Como resumiu a DesignRush: polido é o novo genérico. O que se destaca agora é tipografia com opinião, produto e foto reais e movimento que explica alguma coisa. Por isso todo site da Rosa começa pela marca, não por um template. Salva antes do seu próximo redesign.\n#webdesign #inteligenciaartificial #tendencias2027 #branding #rosabrandstudio",
+   "comentario": null,
+   "status": "agendado"
+  },
+  {
+   "id": "2026-11-28-black-friday",
+   "at": "2026-11-28T10:00:00-03:00",
+   "tipo": "IMAGE",
+   "titulo": "Estático ♻︎ · Black Friday: no discount (Bilíngue)",
+   "imagens": [
+    "m/2026-11-28-black-friday/01.jpg"
+   ],
+   "legenda": "🇺🇸 No discount. Just a brand that doesn't need one. This Black Friday, we're not cutting prices. We're helping brands get to the point where they never have to.\n\n🇧🇷 Sem desconto. Só uma marca que não precisa de um. Nesta Black Friday, a gente não corta preço. Ajuda marcas a chegarem ao ponto em que nunca precisem cortar.\n\n#blackfriday #branding #premiumbrand #posicionamento #rosabrandstudio",
+   "comentario": null,
+   "status": "agendado"
+  },
+  {
+   "id": "2026-12-01-teste-do-logo",
+   "at": "2026-12-01T19:00:00-03:00",
+   "tipo": "CAROUSEL",
+   "titulo": "Carrossel · Seu logo passa nesse teste? (PT)",
+   "imagens": [
+    "m/2026-12-01-teste-do-logo/01.jpg",
+    "m/2026-12-01-teste-do-logo/02.jpg",
+    "m/2026-12-01-teste-do-logo/03.jpg",
+    "m/2026-12-01-teste-do-logo/04.jpg",
+    "m/2026-12-01-teste-do-logo/05.jpg",
+    "m/2026-12-01-teste-do-logo/06.jpg"
+   ],
+   "legenda": "Logo bonito no Illustrator é fácil. Difícil é funcionar no mundo real.\n\n4 testes para fazer hoje:\n1. Pequeno: no ícone do navegador e na foto de perfil ele ainda aparece?\n2. Uma cor só: funciona em carimbo, gravação, nota fiscal?\n3. Fundo invertido: existe versão clara e escura?\n4. De longe: desfocando a vista, a forma ainda é reconhecível?\n\nFizemos o teste com três marcas do nosso ecossistema: Rosa, Incanto e Magic 3D.\n\nPassou nos 4? Sua marca está pronta para crescer. Não passou? Fala com a gente.\n\n#logo #logodesign #identidadevisual #branding #designdemarca #rosabrandstudio",
+   "comentario": null,
+   "status": "agendado"
+  },
+  {
+   "id": "2026-12-03-incanto-cinema",
+   "at": "2026-12-03T12:00:00-03:00",
+   "tipo": "REELS",
+   "titulo": "Reel V4 · Um site de confeitaria que parece cinema (PT + EN)",
+   "video": "m/2026-12-03-incanto-cinema/reel.mp4",
+   "capa": "m/2026-12-03-incanto-cinema/capa.jpg",
+   "legenda": "E se rolar um site fosse como assistir a um filme?\n\nNo site da Incanto Pasticceria, cada rolagem é uma cena. Por trás, três decisões:\n1. Rolagem como roteiro, com começo, meio e fim\n2. O doce como protagonista: foto grande, texto pequeno\n3. Ficha técnica em vez de adjetivo: formato, textura, calda\n\nMarca, site e conteúdo falando a mesma língua.\n\nTudo que aparece no vídeo é o site real, gravado no notebook e no celular.\n\n#webdesign #confeitaria #sitedeconfeitaria #storytelling #direcaodearte #rosabrandstudio",
+   "comentario": "Que outro tipo de negócio merecia um site assim?",
+   "status": "agendado"
+  },
+  {
+   "id": "2026-12-03-incanto-cinema-en",
+   "at": "2026-12-03T19:30:00-03:00",
+   "tipo": "REELS",
+   "teste": true,
+   "plano_b": "2026-12-05T19:30:00-03:00",
+   "titulo": "Reel V4 · Um site de confeitaria que parece cinema (PT + EN) (EN, Reel de teste)",
+   "video": "m/2026-12-03-incanto-cinema/reel-en.mp4",
+   "capa": "m/2026-12-03-incanto-cinema/capa-en.jpg",
+   "legenda": "What if a pastry shop website felt like cinema? On the Incanto website, every scroll is a scene. Three decisions behind it: scrolling as a script, the dessert as the star, and specs instead of adjectives. Everything in this video is the real site, recorded on desktop and mobile.\n#webdesign #storytelling #artdirection #foodbranding #rosabrandstudio",
+   "comentario": null,
+   "status": "agendado"
+  },
+  {
+   "id": "2026-12-05-geo-ai-search",
+   "at": "2026-12-05T10:00:00-03:00",
+   "tipo": "CAROUSEL",
+   "titulo": "Carrossel · Your next visitor might be an AI (EN)",
+   "imagens": [
+    "m/2026-12-05-geo-ai-search/01.jpg",
+    "m/2026-12-05-geo-ai-search/02.jpg",
+    "m/2026-12-05-geo-ai-search/03.jpg",
+    "m/2026-12-05-geo-ai-search/04.jpg",
+    "m/2026-12-05-geo-ai-search/05.jpg",
+    "m/2026-12-05-geo-ai-search/06.jpg",
+    "m/2026-12-05-geo-ai-search/07.jpg"
+   ],
+   "legenda": "More people are asking AI assistants instead of scrolling through search results. If the answer doesn't mention you, you don't exist in that conversation.\n\nThat's GEO, generative engine optimization. Five practical moves:\n01. Answer first, explain later\n02. Structure is a signal: headings, FAQ, schema\n03. Be quotable: real names, places and numbers\n04. Text, not text inside images\n05. Same story everywhere: site, Google profile, Instagram\n\nSEO taught us to rank. GEO asks us to be the answer.\n\n#geo #aisearch #seo #webdesign #digitalmarketing #rosabrandstudio",
+   "comentario": null,
+   "status": "agendado"
+  },
+  {
+   "id": "2026-12-08-briefing-a-marca",
+   "at": "2026-12-08T12:00:00-03:00",
+   "tipo": "REELS",
+   "titulo": "Reel V5 · Do briefing à marca em 4 etapas (PT + EN)",
+   "video": "m/2026-12-08-briefing-a-marca/reel.mp4",
+   "capa": "m/2026-12-08-briefing-a-marca/capa.jpg",
+   "legenda": "Marca não nasce de uma ideia no chuveiro. Nasce de processo.\n\n1. Imersão: briefing, mercado, concorrentes, público\n2. Estratégia: posicionamento, promessa, tom de voz\n3. Identidade: logo construído em grid, cores, tipografia\n4. Aplicação: site, redes, embalagem, papelaria\n\nFoi assim com Vinil Show, Incanto e Magic 3D. Cada uma com voz própria.\n\nLogo é a assinatura. Marca é a experiência inteira.\n\n#branding #processocriativo #identidadevisual #designdemarca #bastidores #rosabrandstudio",
+   "comentario": null,
+   "status": "agendado"
+  },
+  {
+   "id": "2026-12-08-briefing-a-marca-en",
+   "at": "2026-12-08T19:30:00-03:00",
+   "tipo": "REELS",
+   "teste": true,
+   "plano_b": "2026-12-10T19:30:00-03:00",
+   "titulo": "Reel V5 · Do briefing à marca em 4 etapas (PT + EN) (EN, Reel de teste)",
+   "video": "m/2026-12-08-briefing-a-marca/reel-en.mp4",
+   "capa": "m/2026-12-08-briefing-a-marca/capa-en.jpg",
+   "legenda": "A brand isn't born from a shower idea. It's born from process: immersion, strategy, identity and application. The logo is built on a grid, never sketched in a rush. That's how we built Vinil Show, Incanto and Magic 3D, each with its own voice. A logo is the signature; the brand is the whole experience.\n#branding #brandidentity #designprocess #behindthescenes #rosabrandstudio",
+   "comentario": null,
+   "status": "agendado"
+  },
+  {
+   "id": "2026-12-10-natal-ecommerce-magic",
+   "at": "2026-12-10T12:00:00-03:00",
+   "tipo": "REELS",
+   "titulo": "Reel V6 · 3 ajustes de Natal na sua loja online (PT + EN)",
+   "video": "m/2026-12-10-natal-ecommerce-magic/reel.mp4",
+   "capa": "m/2026-12-10-natal-ecommerce-magic/capa.jpg",
+   "legenda": "Dezembro é o mês em que mais gente compra presente online. Três ajustes simples que fazem diferença:\n\n1. Prazo de entrega no topo. \"Peça até tal dia para receber antes do Natal\" responde a dúvida número um.\n2. Coleções por pessoa: para a professora, para quem tem tudo, para os pequenos. Ninguém busca por categoria em dezembro.\n3. Vista a loja, não a marca. Banner e selo de Natal, mas logo, cores e tipografia continuam iguais.\n\nNo vídeo, os produtos e o site são da Magic 3D, marca do nosso ecossistema que tem identidade e site feitos pela Rosa.\n\nManda para quem tem loja online.\n\n#ecommerce #natal #lojavirtual #presentepersonalizado #magic3d #rosabrandstudio",
+   "comentario": null,
+   "status": "agendado"
+  },
+  {
+   "id": "2026-12-10-natal-ecommerce-magic-en",
+   "at": "2026-12-10T19:30:00-03:00",
+   "tipo": "REELS",
+   "teste": true,
+   "plano_b": "2026-12-12T19:30:00-03:00",
+   "titulo": "Reel V6 · 3 ajustes de Natal na sua loja online (PT + EN) (EN, Reel de teste)",
+   "video": "m/2026-12-10-natal-ecommerce-magic/reel-en.mp4",
+   "capa": "m/2026-12-10-natal-ecommerce-magic/capa-en.jpg",
+   "legenda": "Three holiday fixes for your online store: put the delivery deadline at the top, create collections by person, and dress up the store without changing the brand. Shown with Magic 3D, whose identity and website were designed by Rosa. Send this to someone who runs an online store.\n#ecommerce #holidayseason #onlinestore #webdesign #rosabrandstudio",
+   "comentario": null,
+   "status": "agendado"
+  },
+  {
+   "id": "2026-12-12-luxury-lessons",
+   "at": "2026-12-12T10:00:00-03:00",
+   "tipo": "CAROUSEL",
+   "titulo": "Carrossel ♻︎ · What luxury brands teach small businesses (EN)",
+   "imagens": [
+    "m/2026-12-12-luxury-lessons/01.jpg",
+    "m/2026-12-12-luxury-lessons/02.jpg",
+    "m/2026-12-12-luxury-lessons/03.jpg",
+    "m/2026-12-12-luxury-lessons/04.jpg",
+    "m/2026-12-12-luxury-lessons/05.jpg",
+    "m/2026-12-12-luxury-lessons/06.jpg"
+   ],
+   "legenda": "Luxury brands have budgets most businesses will never see. But their best lessons cost nothing.\n\nAesop says less and means more. Apple puts one idea on each screen. Hermès has kept the same orange box for generations. Le Labo turned a plain typed label into its signature.\n\nNone of that is about money. It's about restraint, focus and consistency.\n\n#branding #luxurybranding #brandstrategy #smallbusiness #rosabrandstudio",
+   "comentario": null,
+   "status": "agendado"
+  },
+  {
+   "id": "2026-12-15-hiring-guide",
+   "at": "2026-12-15T19:30:00-03:00",
+   "tipo": "CAROUSEL",
+   "titulo": "Carrossel ♻︎ · Hiring a designer in 2027? (EN)",
+   "imagens": [
+    "m/2026-12-15-hiring-guide/01.jpg",
+    "m/2026-12-15-hiring-guide/02.jpg",
+    "m/2026-12-15-hiring-guide/03.jpg",
+    "m/2026-12-15-hiring-guide/04.jpg",
+    "m/2026-12-15-hiring-guide/05.jpg",
+    "m/2026-12-15-hiring-guide/06.jpg",
+    "m/2026-12-15-hiring-guide/07.jpg"
+   ],
+   "legenda": "Planning a new brand or website for 2027? Ask these five questions before you sign anything.\n\nCan you show me the thinking, not just the result? What exactly is included? How will we measure success? Who will I actually work with? What happens after delivery?\n\nGood questions make good projects, and a good designer will be glad you asked.\n\n#hiringadesigner #branding #webdesign #smallbusiness #2027 #rosabrandstudio",
+   "comentario": null,
+   "status": "agendado"
+  },
+  {
+   "id": "2026-12-17-tendencias-2027",
+   "at": "2026-12-17T12:00:00-03:00",
+   "tipo": "REELS",
+   "titulo": "Reel V7 · Tendências 2027 em 30 segundos (PT + EN)",
+   "video": "m/2026-12-17-tendencias-2027/reel.mp4",
+   "capa": "m/2026-12-17-tendencias-2027/capa.jpg",
+   "legenda": "🇧🇷 6 tendências e 1 exagero para 2027:\n01. Tipografia que se move\n02. Calma minimalista\n03. Feito à mão, imperfeito\n04. Identidade modular\n05. Visível para a IA\n06. Velocidade é design\n✕ 3D pesado em tudo: lindo no portfólio, lento no celular\n\n🇺🇸 6 trends and 1 hype for 2027. Kinetic type, minimalist calm, human craft, modular identity, AI visibility and speed. Elaborate 3D everywhere? Use it with care.\n\nQual você já usa? / Which one are you using?\n\n#tendencias2027 #designtrends #branding #webdesign #design2027 #rosabrandstudio",
+   "comentario": null,
+   "status": "agendado"
+  },
+  {
+   "id": "2026-12-17-tendencias-2027-en",
+   "at": "2026-12-17T19:30:00-03:00",
+   "tipo": "REELS",
+   "teste": true,
+   "plano_b": "2026-12-19T19:30:00-03:00",
+   "titulo": "Reel V7 · Tendências 2027 em 30 segundos (PT + EN) (EN, Reel de teste)",
+   "video": "m/2026-12-17-tendencias-2027/reel-en.mp4",
+   "capa": "m/2026-12-17-tendencias-2027/capa-en.jpg",
+   "legenda": "2027 in 30 seconds: type that moves, minimalist calm, handmade and imperfect, modular identity, visibility to AI and speed as design. And one hype: heavy 3D everywhere. Which one are you already using?\n#designtrends #2027 #branding #webdesign #rosabrandstudio",
+   "comentario": null,
+   "status": "agendado"
+  },
+  {
+   "id": "2026-12-19-agenda-2027",
+   "at": "2026-12-19T10:00:00-03:00",
+   "tipo": "IMAGE",
+   "titulo": "Estático ♻︎ · Now booking 2027 (Bilíngue)",
+   "imagens": [
+    "m/2026-12-19-agenda-2027/01.jpg"
+   ],
+   "legenda": "🇺🇸 Now booking 2027. From a hotel in the Atacama to a salon in New Jersey, from an architecture studio to a vinyl flooring brand, we take on a few select projects each month: branding, websites and paid media creative. Link in bio.\n\n🇧🇷 Agenda 2027 aberta. Trabalhamos com poucos projetos por mês: branding, sites e criativos para mídia paga. Link na bio.\n\n#branding #webdesign #paidmedia #designstudio #2027 #rosabrandstudio",
+   "comentario": null,
+   "status": "agendado"
+  },
+  {
+   "id": "2026-12-22-boas-festas",
+   "at": "2026-12-22T19:00:00-03:00",
+   "tipo": "IMAGE",
+   "titulo": "Estático · Obrigado, 2026. Boas festas (Bilíngue)",
+   "imagens": [
+    "m/2026-12-22-boas-festas/01.jpg"
+   ],
+   "legenda": "🇧🇷 Obrigado por esse ano. Da Rosa brand studio, da Incanto Pasticceria e da Magic 3D, as três marcas do nosso ecossistema: boas festas, com tempo para as pessoas que importam. Até 2027.\n\n🇺🇸 Thank you for this year. Happy holidays from Rosa brand studio, Incanto Pasticceria and Magic 3D. See you in 2027.\n\n#boasfestas #happyholidays #natal #rosabrandstudio",
+   "comentario": null,
+   "status": "agendado"
+  },
+  {
+   "id": "2026-12-29-2027",
+   "at": "2026-12-29T19:00:00-03:00",
+   "tipo": "IMAGE",
+   "titulo": "Estático ♻︎ · 2027: strategy first. Again. (Bilíngue)",
+   "imagens": [
+    "m/2026-12-29-2027/01.jpg"
+   ],
+   "legenda": "🇺🇸 2027: strategy first. Again. Thank you to every client and partner who built 2026 with us. See you next year.\n\n🇧🇷 2027: estratégia primeiro. De novo. Obrigado a cada cliente e parceiro que construiu 2026 com a gente. Até o ano que vem.\n\n#2027 #newyear #branding #rosabrandstudio",
+   "comentario": null,
+   "status": "agendado"
+  }
+ ]
+}

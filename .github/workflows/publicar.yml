@@ -1,0 +1,49 @@
+name: Publicar no Instagram
+
+on:
+  schedule:
+    - cron: "1,16,31,46 * * * *"   # a cada 15 min (UTC); o GitHub pode atrasar alguns minutos
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: "teste = só confere tudo, publicar = publica o que estiver no horário"
+        type: choice
+        options: [teste, publicar]
+        default: teste
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publicar-instagram
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            agenda.json
+            tools
+          sparse-checkout-cone-mode: false
+          filter: blob:none
+
+      - name: Publicar
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: "17841404321715727"
+          BASE_URL: "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
+        run: python3 tools/publicar.py ${{ (github.event_name == 'workflow_dispatch' && inputs.modo == 'teste') && '--teste' || '' }}
+
+      - name: Salvar status na agenda
+        if: always()
+        run: |
+          git diff --quiet -- agenda.json && exit 0
+          git config user.name "agenda-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add agenda.json
+          git commit -m "agenda: status atualizado"
+          for i in 1 2 3; do git pull --rebase --quiet && git push --quiet && break; sleep 5; done

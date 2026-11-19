@@ -3,74 +3,8 @@
  "fuso": "America/Sao_Paulo",
  "posts": [
   {
-   "id": "2026-11-12-site-0-05s",
-   "at": "2026-11-12T12:00:00-03:00",
-   "tipo": "REELS",
-   "titulo": "Reel V1 · Seu site tem 0,05s para convencer (PT + EN)",
-   "video": "m/2026-11-12-site-0-05s/reel.mp4",
-   "capa": "m/2026-11-12-site-0-05s/capa.jpg",
-   "legenda": "Uma pessoa leva cerca de 50 milissegundos para decidir se gostou do seu site. Antes de ler uma palavra.\n\nE não é só aparência. Quando o carregamento vai de 1 para 3 segundos, a chance de a pessoa ir embora sobe 32%, segundo o Google.\n\nO que decide esses primeiros instantes:\n1. Uma ideia por tela. O olho precisa saber onde pousar.\n2. Contraste e respiro. Espaço vazio passa confiança.\n3. Velocidade. O maior elemento da página visível em até 2,5 segundos.\n\nFoi com essa régua que desenhamos o site da Incanto Pasticceria.\n\nSalva para usar como checklist no seu próximo site.\n\n#webdesign #ux #primeiraimpressao #sitequevende #designdigital #rosabrandstudio",
-   "comentario": "Qual dos 3 o seu site mais precisa melhorar?",
-   "status": "aguardando_decisao"
-  },
-  {
-   "id": "2026-11-12-site-0-05s-en",
-   "at": "2026-11-12T19:30:00-03:00",
-   "tipo": "REELS",
-   "teste": true,
-   "plano_b": "2026-11-14T19:30:00-03:00",
-   "titulo": "Reel V1 · Seu site tem 0,05s para convencer (PT + EN) (EN, Reel de teste)",
-   "video": "m/2026-11-12-site-0-05s/reel-en.mp4",
-   "capa": "m/2026-11-12-site-0-05s/capa-en.jpg",
-   "legenda": "Your website has 0.05 seconds to win someone over. That's how long people take to judge a page, before reading a single word. Load time matters too: going from 1 to 3 seconds raises the chance of a bounce by 32% (Google). One idea per screen, contrast and white space, and the main content visible in under 2.5 seconds. That's the standard behind the Incanto website. Save this as a checklist.\n#webdesign #ux #firstimpression #websitedesign #rosabrandstudio",
-   "comentario": null,
-   "status": "aguardando_decisao"
-  },
-  {
-   "id": "2026-11-14-regra-60-30-10",
-   "at": "2026-11-14T10:00:00-03:00",
-   "tipo": "CAROUSEL",
-   "titulo": "Carrossel · A regra 60-30-10 das cores (PT)",
-   "imagens": [
-    "m/2026-11-14-regra-60-30-10/01.jpg",
-    "m/2026-11-14-regra-60-30-10/02.jpg",
-    "m/2026-11-14-regra-60-30-10/03.jpg",
-    "m/2026-11-14-regra-60-30-10/04.jpg",
-    "m/2026-11-14-regra-60-30-10/05.jpg",
-    "m/2026-11-14-regra-60-30-10/06.jpg",
-    "m/2026-11-14-regra-60-30-10/07.jpg"
-   ],
-   "legenda": "Sua marca tem cores bonitas e mesmo assim parece confusa? Provavelmente é proporção, não paleta.\n\n60% para a cor dominante, 30% para a secundária, 10% para o destaque. Esse 10% é o que leva ao clique, por isso precisa aparecer pouco.\n\nNo carrossel mostramos a regra aplicada em dois projetos nossos: o roxo e amarelo da Magic 3D e o escuro com dourado da Incanto.\n\nE um teste que vale ouro: coloque a tela em preto e branco. Se a hierarquia sumir, o problema era contraste.\n\nSalva para a próxima vez que for escolher uma paleta.\n\n#cores #paletadecores #branding #identidadevisual #designgrafico #rosabrandstudio",
-   "comentario": null,
-   "status": "aguardando_decisao"
-  },
-  {
-   "id": "2026-11-17-ecommerce-2027",
-   "at": "2026-11-17T12:00:00-03:00",
-   "tipo": "REELS",
-   "titulo": "Reel V2 · E-commerce 2027: a vitrine virou experiência (PT + EN)",
-   "video": "m/2026-11-17-ecommerce-2027/reel.mp4",
-   "capa": "m/2026-11-17-ecommerce-2027/capa.jpg",
-   "legenda": "🇧🇷 Foto parada e grade de produtos já não bastam. Segundo a BigEye, 54% dos consumidores querem sentir alegria ao comprar online.\n\n4 tendências para lojas em 2027:\n01. Produto em movimento: 360°, zoom, o objeto como ele é\n02. Personalização com prévia ao vivo\n03. Vitrine que conta história, não só preço\n04. Checkout sem atrito, em poucos toques\n\nAs telas de loja no vídeo são um conceito nosso usando produtos reais da Magic 3D. O site no final é o que desenhamos para eles.\n\n🇺🇸 The storefront became an experience. Motion, live personalization, storytelling and frictionless checkout: the e-commerce shifts for 2027, shown with real Magic 3D products.\n\n#ecommerce #tendencias2027 #lojavirtual #webdesign #ecommercedesign #rosabrandstudio",
-   "comentario": "Qual dessas sua loja já tem? / Which one does your store have?",
-   "status": "aguardando_decisao"
-  },
-  {
-   "id": "2026-11-17-ecommerce-2027-en",
-   "at": "2026-11-17T19:30:00-03:00",
-   "tipo": "REELS",
-   "teste": true,
-   "plano_b": "2026-11-19T19:30:00-03:00",
-   "titulo": "Reel V2 · E-commerce 2027: a vitrine virou experiência (PT + EN) (EN, Reel de teste)",
-   "video": "m/2026-11-17-ecommerce-2027/reel-en.mp4",
-   "capa": "m/2026-11-17-ecommerce-2027/capa-en.jpg",
-   "legenda": "The storefront became an experience. 54% of consumers want to feel joy when shopping online (BigEye). Four shifts for 2027: products in motion, live personalization, storefronts that tell a story and frictionless checkout. The store screens in this video are a Rosa concept using real Magic 3D products; the website at the end is the one we designed for them.\n#ecommerce #designtrends2027 #webdesign #ecommercedesign #rosabrandstudio",
-   "comentario": null,
-   "status": "aguardando_decisao"
-  },
-  {
    "id": "2026-11-19-core-web-vitals",
-   "at": "2026-11-19T19:30:00-03:00",
+   "at": "2026-11-19T12:00:00-03:00",
    "tipo": "CAROUSEL",
    "titulo": "Carrossel · Core Web Vitals in 3 numbers (EN)",
    "imagens": [
@@ -87,6 +21,18 @@
    "status": "agendado"
   },
   {
+   "id": "2026-11-12-site-0-05s",
+   "at": "2026-11-20T12:00:00-03:00",
+   "tipo": "REELS",
+   "titulo": "Reel V1 · Seu site tem 0,05s para convencer (PT)",
+   "video": "m/2026-11-12-site-0-05s/reel.mp4",
+   "capa": "m/2026-11-12-site-0-05s/capa.jpg",
+   "legenda": "Uma pessoa leva cerca de 50 milissegundos para decidir se gostou do seu site. Antes de ler uma palavra.\n\nE não é só aparência. Quando o carregamento vai de 1 para 3 segundos, a chance de a pessoa ir embora sobe 32%, segundo o Google.\n\nO que decide esses primeiros instantes:\n1. Uma ideia por tela. O olho precisa saber onde pousar.\n2. Contraste e respiro. Espaço vazio passa confiança.\n3. Velocidade. O maior elemento da página visível em até 2,5 segundos.\n\nFoi com essa régua que desenhamos o site da Incanto Pasticceria.\n\nSalva para usar como checklist no seu próximo site.\n\n#webdesign #ux #primeiraimpressao #sitequevende #designdigital #rosabrandstudio",
+   "comentario": "Qual dos 3 o seu site mais precisa melhorar?",
+   "status": "agendado",
+   "idioma": "pt"
+  },
+  {
    "id": "2026-11-21-tipografia",
    "at": "2026-11-21T10:00:00-03:00",
    "tipo": "CAROUSEL",
@@ -99,6 +45,24 @@
     "m/2026-11-21-tipografia/05.jpg"
    ],
    "legenda": "Antes de alguém ler o que você escreveu, já sentiu como você fala.\n\nO peso muda o tom: a mesma palavra em negrito grita, e em fonte fina sussurra. O espaçamento muda o ritmo: letras apertadas soam urgentes, letras espaçadas soam calmas. E a regra que mais protege uma marca é simples: duas fontes, no máximo. Uma para falar, outra para ler.\n\nTipografia é a voz da marca. Cada letra é uma escolha.\n\n#tipografia #branding #identidadevisual #design #designgrafico #rosabrandstudio",
+   "comentario": null,
+   "status": "agendado"
+  },
+  {
+   "id": "2026-11-14-regra-60-30-10",
+   "at": "2026-11-23T19:00:00-03:00",
+   "tipo": "CAROUSEL",
+   "titulo": "Carrossel · A regra 60-30-10 das cores (PT)",
+   "imagens": [
+    "m/2026-11-14-regra-60-30-10/01.jpg",
+    "m/2026-11-14-regra-60-30-10/02.jpg",
+    "m/2026-11-14-regra-60-30-10/03.jpg",
+    "m/2026-11-14-regra-60-30-10/04.jpg",
+    "m/2026-11-14-regra-60-30-10/05.jpg",
+    "m/2026-11-14-regra-60-30-10/06.jpg",
+    "m/2026-11-14-regra-60-30-10/07.jpg"
+   ],
+   "legenda": "Sua marca tem cores bonitas e mesmo assim parece confusa? Provavelmente é proporção, não paleta.\n\n60% para a cor dominante, 30% para a secundária, 10% para o destaque. Esse 10% é o que leva ao clique, por isso precisa aparecer pouco.\n\nNo carrossel mostramos a regra aplicada em dois projetos nossos: o roxo e amarelo da Magic 3D e o escuro com dourado da Incanto.\n\nE um teste que vale ouro: coloque a tela em preto e branco. Se a hierarquia sumir, o problema era contraste.\n\nSalva para a próxima vez que for escolher uma paleta.\n\n#cores #paletadecores #branding #identidadevisual #designgrafico #rosabrandstudio",
    "comentario": null,
    "status": "agendado"
   },
@@ -120,28 +84,28 @@
    "status": "agendado"
   },
   {
-   "id": "2026-11-26-ai-websites-same",
-   "at": "2026-11-26T19:30:00-03:00",
+   "id": "2026-11-17-ecommerce-2027",
+   "at": "2026-11-25T19:30:00-03:00",
    "tipo": "REELS",
-   "titulo": "Reel V3 · AI made every website look the same (EN + PT)",
-   "video": "m/2026-11-26-ai-websites-same/reel.mp4",
-   "capa": "m/2026-11-26-ai-websites-same/capa.jpg",
-   "legenda": "Same hero. Same three cards. Same purple gradient. AI made clean websites easy, so clean stopped being special.\n\nDesignRush put it simply: polished is the new generic.\n\nWhat stands out now:\n01. Typography with a point of view\n02. Real product, real photos\n03. Motion that explains something\n\nEvery site we build starts from the brand, not a template. Terrantai, Nodo Due and Incanto are proof.\n\nSave this before your next redesign.\n\n#webdesign #aidesign #designtrends #branding #websitedesign #rosabrandstudio",
-   "comentario": null,
-   "status": "agendado"
+   "titulo": "Reel V2 · E-commerce 2027: a vitrine virou experiência (EN)",
+   "video": "m/2026-11-17-ecommerce-2027/reel-en.mp4",
+   "capa": "m/2026-11-17-ecommerce-2027/capa-en.jpg",
+   "legenda": "The storefront became an experience. 54% of consumers want to feel joy when shopping online (BigEye). Four shifts for 2027: products in motion, live personalization, storefronts that tell a story and frictionless checkout. The store screens in this video are a Rosa concept using real Magic 3D products; the website at the end is the one we designed for them.\n#ecommerce #designtrends2027 #webdesign #ecommercedesign #rosabrandstudio",
+   "comentario": "Which one does your store have?",
+   "status": "agendado",
+   "idioma": "en"
   },
   {
-   "id": "2026-11-26-ai-websites-same-pt",
-   "at": "2026-11-26T20:30:00-03:00",
+   "id": "2026-11-26-ai-websites-same",
+   "at": "2026-11-26T12:00:00-03:00",
    "tipo": "REELS",
-   "teste": true,
-   "plano_b": "2026-11-28T19:30:00-03:00",
-   "titulo": "Reel V3 · AI made every website look the same (EN + PT) (PT, Reel de teste)",
+   "titulo": "Reel V3 · AI made every website look the same (PT)",
    "video": "m/2026-11-26-ai-websites-same/reel-pt.mp4",
    "capa": "m/2026-11-26-ai-websites-same/capa-pt.jpg",
    "legenda": "A IA deixou todo site igual. Mesmo topo, mesmos três cards, mesmo degradê roxo. Como resumiu a DesignRush: polido é o novo genérico. O que se destaca agora é tipografia com opinião, produto e foto reais e movimento que explica alguma coisa. Por isso todo site da Rosa começa pela marca, não por um template. Salva antes do seu próximo redesign.\n#webdesign #inteligenciaartificial #tendencias2027 #branding #rosabrandstudio",
    "comentario": null,
-   "status": "agendado"
+   "status": "agendado",
+   "idioma": "pt"
   },
   {
    "id": "2026-11-28-black-friday",
@@ -174,27 +138,15 @@
   },
   {
    "id": "2026-12-03-incanto-cinema",
-   "at": "2026-12-03T12:00:00-03:00",
-   "tipo": "REELS",
-   "titulo": "Reel V4 · Um site de confeitaria que parece cinema (PT + EN)",
-   "video": "m/2026-12-03-incanto-cinema/reel.mp4",
-   "capa": "m/2026-12-03-incanto-cinema/capa.jpg",
-   "legenda": "E se rolar um site fosse como assistir a um filme?\n\nNo site da Incanto Pasticceria, cada rolagem é uma cena. Por trás, três decisões:\n1. Rolagem como roteiro, com começo, meio e fim\n2. O doce como protagonista: foto grande, texto pequeno\n3. Ficha técnica em vez de adjetivo: formato, textura, calda\n\nMarca, site e conteúdo falando a mesma língua.\n\nTudo que aparece no vídeo é o site real, gravado no notebook e no celular.\n\n#webdesign #confeitaria #sitedeconfeitaria #storytelling #direcaodearte #rosabrandstudio",
-   "comentario": "Que outro tipo de negócio merecia um site assim?",
-   "status": "agendado"
-  },
-  {
-   "id": "2026-12-03-incanto-cinema-en",
    "at": "2026-12-03T19:30:00-03:00",
    "tipo": "REELS",
-   "teste": true,
-   "plano_b": "2026-12-05T19:30:00-03:00",
-   "titulo": "Reel V4 · Um site de confeitaria que parece cinema (PT + EN) (EN, Reel de teste)",
+   "titulo": "Reel V4 · Um site de confeitaria que parece cinema (EN)",
    "video": "m/2026-12-03-incanto-cinema/reel-en.mp4",
    "capa": "m/2026-12-03-incanto-cinema/capa-en.jpg",
    "legenda": "What if a pastry shop website felt like cinema? On the Incanto website, every scroll is a scene. Three decisions behind it: scrolling as a script, the dessert as the star, and specs instead of adjectives. Everything in this video is the real site, recorded on desktop and mobile.\n#webdesign #storytelling #artdirection #foodbranding #rosabrandstudio",
-   "comentario": null,
-   "status": "agendado"
+   "comentario": "What other kind of business deserves a website like this?",
+   "status": "agendado",
+   "idioma": "en"
   },
   {
    "id": "2026-12-05-geo-ai-search",
@@ -218,49 +170,25 @@
    "id": "2026-12-08-briefing-a-marca",
    "at": "2026-12-08T12:00:00-03:00",
    "tipo": "REELS",
-   "titulo": "Reel V5 · Do briefing à marca em 4 etapas (PT + EN)",
+   "titulo": "Reel V5 · Do briefing à marca em 4 etapas (PT)",
    "video": "m/2026-12-08-briefing-a-marca/reel.mp4",
    "capa": "m/2026-12-08-briefing-a-marca/capa.jpg",
    "legenda": "Marca não nasce de uma ideia no chuveiro. Nasce de processo.\n\n1. Imersão: briefing, mercado, concorrentes, público\n2. Estratégia: posicionamento, promessa, tom de voz\n3. Identidade: logo construído em grid, cores, tipografia\n4. Aplicação: site, redes, embalagem, papelaria\n\nFoi assim com Vinil Show, Incanto e Magic 3D. Cada uma com voz própria.\n\nLogo é a assinatura. Marca é a experiência inteira.\n\n#branding #processocriativo #identidadevisual #designdemarca #bastidores #rosabrandstudio",
    "comentario": null,
-   "status": "agendado"
-  },
-  {
-   "id": "2026-12-08-briefing-a-marca-en",
-   "at": "2026-12-08T19:30:00-03:00",
-   "tipo": "REELS",
-   "teste": true,
-   "plano_b": "2026-12-10T19:30:00-03:00",
-   "titulo": "Reel V5 · Do briefing à marca em 4 etapas (PT + EN) (EN, Reel de teste)",
-   "video": "m/2026-12-08-briefing-a-marca/reel-en.mp4",
-   "capa": "m/2026-12-08-briefing-a-marca/capa-en.jpg",
-   "legenda": "A brand isn't born from a shower idea. It's born from process: immersion, strategy, identity and application. The logo is built on a grid, never sketched in a rush. That's how we built Vinil Show, Incanto and Magic 3D, each with its own voice. A logo is the signature; the brand is the whole experience.\n#branding #brandidentity #designprocess #behindthescenes #rosabrandstudio",
-   "comentario": null,
-   "status": "agendado"
+   "status": "agendado",
+   "idioma": "pt"
   },
   {
    "id": "2026-12-10-natal-ecommerce-magic",
-   "at": "2026-12-10T12:00:00-03:00",
-   "tipo": "REELS",
-   "titulo": "Reel V6 · 3 ajustes de Natal na sua loja online (PT + EN)",
-   "video": "m/2026-12-10-natal-ecommerce-magic/reel.mp4",
-   "capa": "m/2026-12-10-natal-ecommerce-magic/capa.jpg",
-   "legenda": "Dezembro é o mês em que mais gente compra presente online. Três ajustes simples que fazem diferença:\n\n1. Prazo de entrega no topo. \"Peça até tal dia para receber antes do Natal\" responde a dúvida número um.\n2. Coleções por pessoa: para a professora, para quem tem tudo, para os pequenos. Ninguém busca por categoria em dezembro.\n3. Vista a loja, não a marca. Banner e selo de Natal, mas logo, cores e tipografia continuam iguais.\n\nNo vídeo, os produtos e o site são da Magic 3D, marca do nosso ecossistema que tem identidade e site feitos pela Rosa.\n\nManda para quem tem loja online.\n\n#ecommerce #natal #lojavirtual #presentepersonalizado #magic3d #rosabrandstudio",
-   "comentario": null,
-   "status": "agendado"
-  },
-  {
-   "id": "2026-12-10-natal-ecommerce-magic-en",
    "at": "2026-12-10T19:30:00-03:00",
    "tipo": "REELS",
-   "teste": true,
-   "plano_b": "2026-12-12T19:30:00-03:00",
-   "titulo": "Reel V6 · 3 ajustes de Natal na sua loja online (PT + EN) (EN, Reel de teste)",
+   "titulo": "Reel V6 · 3 ajustes de Natal na sua loja online (EN)",
    "video": "m/2026-12-10-natal-ecommerce-magic/reel-en.mp4",
    "capa": "m/2026-12-10-natal-ecommerce-magic/capa-en.jpg",
    "legenda": "Three holiday fixes for your online store: put the delivery deadline at the top, create collections by person, and dress up the store without changing the brand. Shown with Magic 3D, whose identity and website were designed by Rosa. Send this to someone who runs an online store.\n#ecommerce #holidayseason #onlinestore #webdesign #rosabrandstudio",
    "comentario": null,
-   "status": "agendado"
+   "status": "agendado",
+   "idioma": "en"
   },
   {
    "id": "2026-12-12-luxury-lessons",
@@ -301,25 +229,13 @@
    "id": "2026-12-17-tendencias-2027",
    "at": "2026-12-17T12:00:00-03:00",
    "tipo": "REELS",
-   "titulo": "Reel V7 · Tendências 2027 em 30 segundos (PT + EN)",
+   "titulo": "Reel V7 · Tendências 2027 em 30 segundos (PT)",
    "video": "m/2026-12-17-tendencias-2027/reel.mp4",
    "capa": "m/2026-12-17-tendencias-2027/capa.jpg",
    "legenda": "🇧🇷 6 tendências e 1 exagero para 2027:\n01. Tipografia que se move\n02. Calma minimalista\n03. Feito à mão, imperfeito\n04. Identidade modular\n05. Visível para a IA\n06. Velocidade é design\n✕ 3D pesado em tudo: lindo no portfólio, lento no celular\n\n🇺🇸 6 trends and 1 hype for 2027. Kinetic type, minimalist calm, human craft, modular identity, AI visibility and speed. Elaborate 3D everywhere? Use it with care.\n\nQual você já usa? / Which one are you using?\n\n#tendencias2027 #designtrends #branding #webdesign #design2027 #rosabrandstudio",
    "comentario": null,
-   "status": "agendado"
-  },
-  {
-   "id": "2026-12-17-tendencias-2027-en",
-   "at": "2026-12-17T19:30:00-03:00",
-   "tipo": "REELS",
-   "teste": true,
-   "plano_b": "2026-12-19T19:30:00-03:00",
-   "titulo": "Reel V7 · Tendências 2027 em 30 segundos (PT + EN) (EN, Reel de teste)",
-   "video": "m/2026-12-17-tendencias-2027/reel-en.mp4",
-   "capa": "m/2026-12-17-tendencias-2027/capa-en.jpg",
-   "legenda": "2027 in 30 seconds: type that moves, minimalist calm, handmade and imperfect, modular identity, visibility to AI and speed as design. And one hype: heavy 3D everywhere. Which one are you already using?\n#designtrends #2027 #branding #webdesign #rosabrandstudio",
-   "comentario": null,
-   "status": "agendado"
+   "status": "agendado",
+   "idioma": "pt"
   },
   {
    "id": "2026-12-19-agenda-2027",

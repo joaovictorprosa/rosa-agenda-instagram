@@ -158,12 +158,15 @@ def teste(agenda):
 
 
 def main():
+    agenda = json.load(open(AGENDA, encoding="utf-8"))
+    agora = datetime.now(timezone.utc)
+    devidos = [p for p in agenda["posts"] if p["status"] == "agendado" and datetime.fromisoformat(p["at"]) <= agora]
+    if "--teste" not in sys.argv and not devidos:
+        print("nada no horário agora"); return
     if not TOKEN or not IG or not BASE.startswith("https://"):
         sys.exit("faltam IG_TOKEN, IG_USER_ID ou BASE_URL")
-    agenda = json.load(open(AGENDA, encoding="utf-8"))
     if "--teste" in sys.argv:
         sys.exit(0 if teste(agenda) else 1)
-    agora = datetime.now(timezone.utc)
     falhas = 0
     for post in agenda["posts"]:
         if post["status"] != "agendado":

@@ -10,8 +10,10 @@ O token nunca é impresso.
 import json, os, sys, time, urllib.request, urllib.parse, urllib.error
 from datetime import datetime, timedelta, timezone
 
-API = "https://graph.instagram.com" + (("/" + os.environ["API_VERSION"]) if os.environ.get("API_VERSION") else "")
 TOKEN = os.environ.get("IG_TOKEN", "").strip().strip('"').strip("'").strip()
+# token IGAA… (login do Instagram) usa graph.instagram.com; token EAA… (login do Facebook) usa graph.facebook.com
+HOST = "https://graph.facebook.com" if TOKEN.startswith("EAA") else "https://graph.instagram.com"
+API = HOST + (("/" + os.environ["API_VERSION"]) if os.environ.get("API_VERSION") else "")
 IG = os.environ.get("IG_USER_ID", "")
 BASE = os.environ.get("BASE_URL", "").rstrip("/") + "/"
 AGENDA = os.path.join(os.path.dirname(__file__), "..", "agenda.json")
@@ -126,10 +128,27 @@ def teste(agenda):
     ok = True
     tipo = "Instagram (IGAA…)" if TOKEN.startswith("IG") else "Facebook (EAA…)" if TOKEN.startswith("EAA") else "desconhecido"
     print(f"token: formato {tipo}, {len(TOKEN)} caracteres, {'tem espaço/quebra no meio' if any(c.isspace() for c in TOKEN) else 'sem espaços'}")
-    me = call("GET", "me", fields="user_id,username,account_type")
-    print(f"✓ token válido: @{me.get('username')} ({me.get('account_type')}), user_id {me.get('user_id')}")
-    if str(me.get("user_id")) != IG:
-        print(f"✗ IG_USER_ID ({IG}) diferente do user_id da conta ({me.get('user_id')})"); ok = False
+    if HOST.endswith("facebook.com"):
+        try:
+            d = call("GET", "debug_token", input_token=TOKEN).get("data", {})
+            exp = d.get("expires_at") or 0
+            quando = "não expira" if exp == 0 else datetime.fromtimestamp(exp, timezone.utc).astimezone(timezone(timedelta(hours=-3))).strftime("%d/%m/%Y %H:%M")
+            print(f"token válido: {d.get('is_valid')}, expira: {quando}")
+            print(f"permissões: {', '.join(d.get('scopes', []))}")
+            if exp and exp - time.time() < 7 * 86400:
+                print("✗ token de curta duração: troque por um de longa duração (60 dias)"); ok = False
+            for need in ("instagram_basic", "instagram_content_publish"):
+                if need not in d.get("scopes", []):
+                    print(f"✗ falta a permissão {need}"); ok = False
+        except ApiErro as e:
+            print(f"! não consegui inspecionar o token: {e}")
+        me = call("GET", IG, fields="username,id")
+        print(f"✓ conta: @{me.get('username')} ({me.get('id')})")
+    else:
+        me = call("GET", "me", fields="user_id,username,account_type")
+        print(f"✓ token válido: @{me.get('username')} ({me.get('account_type')}), user_id {me.get('user_id')}")
+        if str(me.get("user_id")) != IG:
+            print(f"✗ IG_USER_ID ({IG}) diferente do user_id da conta ({me.get('user_id')})"); ok = False
     try:
         lim = call("GET", f"{IG}/content_publishing_limit", fields="quota_usage,config")
         print(f"✓ limite de publicação: {lim.get('data', [{}])[0]}")
